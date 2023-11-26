@@ -23,5 +23,7 @@ Team BUNIZ
 |MS CHOI|<span style="color:red">CBO</span>|Product Designer|
 
 
+[![이스트소프트 l 'AI 개발자 부트캠프 WASSUP' 모집 #가상인간 #ai휴먼 #버추얼휴먼](http://img.youtube.com/vi/65tmhwCV14RQFNAr/0.jpg)](https://youtu.be/mVbMxdNKxj4?si=65tmhwCV14RQFNAr)
+
 
 https://whkakrkr.tistory.com/entry/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC-%F0%9F%8E%A8
