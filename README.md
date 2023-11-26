@@ -24,7 +24,7 @@ Team BUNIZ
 
 
 
-[![이스트소프트](http://img.youtube.com/vi/mVbMxdNKxj4/0.jpg)](https://www.youtube.com/watch?v=mVbMxdNKxj4)
+[![이스트소프트 AI 서비스 기획자 교육](http://img.youtube.com/vi/oaxELilZTgg/0.jpg)](https://www.youtube.com/watch?v=oaxELilZTgg)
 
 
 
