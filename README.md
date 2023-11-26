@@ -14,16 +14,18 @@ driving a new fandom-driven consumer culture.
 
 <IMG sRC ="https://cortex.persona.co/w/1103/q/67/i/89958772a389273e3c120bba12bc3e907b8860565188aa3b1f7ee1827a8e2980/72492_polarr-3.png">
 <IMG sRC ="https://cortex.persona.co/w/2500/q/67/i/7bb687fbb5c49ec66779a32ae2176c4ff890371459189644d6afa87fed20a4a9/-2023-11-18--5.31.26.png">
-
-# Team BUNIZ
+ <br/>
+ 
+## Team BUNIZ
 |Name|Position|Description|
 |------|---|---|
 |DH YANG|*Cofounder, CEO*|AI+XR Product Owner|
 |DI KIM|**CTO**|VisionOS+iOS Developer|
 |MS CHOI|<span style="color:red">CBO</span>|Product Designer|
 
+ <br/>
 
-# 이스트소프트 AI 서비스 기획자 교육 (썸네일을 클릭해 주세요)
+## 이스트소프트 AI 서비스 기획자 교육 (썸네일을 클릭해 주세요)
 [![이스트소프트 AI 서비스 기획자 교육](http://img.youtube.com/vi/oaxELilZTgg/0.jpg)](https://www.youtube.com/watch?v=oaxELilZTgg)
 
 
