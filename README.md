@@ -15,7 +15,8 @@ driving a new fandom-driven consumer culture.
 <IMG sRC ="https://cortex.persona.co/w/1103/q/67/i/89958772a389273e3c120bba12bc3e907b8860565188aa3b1f7ee1827a8e2980/72492_polarr-3.png">
 <IMG sRC ="https://cortex.persona.co/w/2500/q/67/i/7bb687fbb5c49ec66779a32ae2176c4ff890371459189644d6afa87fed20a4a9/-2023-11-18--5.31.26.png">
 
-|제목|내용|설명|
+Team BUNIZ
+|Name|내용|설명|
 |------|---|---|
 |테스트1|테스트2|테스트3|
 |테스트1|테스트2|테스트3|
