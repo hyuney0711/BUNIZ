@@ -24,7 +24,7 @@ Team BUNIZ
 
 
 
-[![이스트소프트](http://img.youtube.com/vi/65tmhwCV14RQFNAr/0.jpg)](https://youtu.be/mVbMxdNKxj4?si=65tmhwCV14RQFNAr)
+[![이스트소프트](http://img.youtube.com/vi/mVbMxdNKxj4/0.jpg)](https://www.youtube.com/watch?v=mVbMxdNKxj4)
 
 
 
