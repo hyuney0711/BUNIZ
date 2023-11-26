@@ -16,16 +16,12 @@ driving a new fandom-driven consumer culture.
 <IMG sRC ="https://cortex.persona.co/w/2500/q/67/i/7bb687fbb5c49ec66779a32ae2176c4ff890371459189644d6afa87fed20a4a9/-2023-11-18--5.31.26.png">
 
 Team BUNIZ
-|Name|내용|설명|
+|Name|Position|Description|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|DH YANG|*Cofounder, CEO*|AI+XR Product Owner|
+|DI KIM|**CTO**|VisionOS+iOS Developer|
+|MS CHOI|<span style="color:red">CBO</span>|Product Designer|
 
-|제목|내용|설명|
-|---|---|---|
-|테스트1|*강조1*|테스트3|
-|테스트1|**강조2**|테스트3|
-|테스트1|<span style="color:red">강조3</span>|테스트3|
+
 
 https://whkakrkr.tistory.com/entry/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC-%F0%9F%8E%A8
